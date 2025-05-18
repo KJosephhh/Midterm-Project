@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6xnjZdQn30A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Documents\\Midterm\\Midterm.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\fsharp.core\\9.0.201\\fsharp.core.9.0.201.nupkg.sha512"
+  ],
+  "logs": []
+}
